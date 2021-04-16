@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574621253 source:c:\users\acer\desktop\num_into_word\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574621278 source:e:\programming\1234567\main.c
+	<stdio.h>
+	<stdlib.h>
+
