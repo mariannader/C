@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575305767 source:c:\users\acer\desktop\the_culculation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576570225 source:c:\users\acer\desktop\decimaltobinary\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576570225 source:e:\programming\decimaltobinary\main.c
+	<stdio.h>
+	<stdlib.h>
+

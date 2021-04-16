@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605796970 source:e:\programming\the_star_b\main.c
+	<stdio.h>
+	<stdlib.h>
+

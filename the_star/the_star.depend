@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574618116 source:c:\users\acer\desktop\the_star\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582899739 source:e:\programming\the_star\main.c
+	<stdio.h>
+	<stdlib.h>
+
